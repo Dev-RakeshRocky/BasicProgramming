@@ -1,4 +1,4 @@
-package com.StringsAndArrays;
+package com.Strings;
 //Prob number 58 Easy
 public class LengthOfLastWord {
 	private static int calcluateLength(String s) {

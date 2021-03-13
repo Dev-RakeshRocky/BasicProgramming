@@ -1,4 +1,4 @@
-package com.StringsAndArrays;
+package com.Strings;
 /*Input: command = "G()(al)"
 Output: "Goal"
 Explanation: The Goal Parser interprets the command as follows:

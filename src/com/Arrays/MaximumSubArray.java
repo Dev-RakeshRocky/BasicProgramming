@@ -1,4 +1,4 @@
-package com.StringsAndArrays;
+package com.Arrays;
 
 /*
    Given an integer array nums, find the contiguous subarray (containing at least one number)

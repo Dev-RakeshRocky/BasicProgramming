@@ -1,4 +1,4 @@
-package com.StringsAndArrays;
+package com.Strings;
 
 public class URLify {
 
