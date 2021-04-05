@@ -1,6 +1,5 @@
 package com.Strings;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /*You are given an array items, where each items[i] = [typei, colori, namei] describes the 
